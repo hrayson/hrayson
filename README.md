@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am a postdoctoral researcher at the [Hôpital Femme Mère Enfant](https://www.chu-lyon.fr/hopital-femme-mere-enfant) and the [Institut des Sciences Cognitives](https://www.univ-lyon1.fr/recherche/entites-de-recherche-et-plateformes-technologiques/institut-des-sciences-cognitives-marc-jeannerod-isc-mj-umr-5229) (CNRS) in Lyon. The main focus of my research is on neurocognitive development underlying social perception and social interaction, as well as the effects of early social experience on socio-cognitive and affective functioning. I use multimodal techniques including electroencephalography (EEG), eye-tracking, behavioural observation, magnetic resonance imaging (MRI), longitudinal research designs, and advanced statistical methods.<br><br>
-👩🏻‍🎓 PhD in Developmental Cognitive Neuroscience, 2017, University of Reading<br/>
-👩🏻‍🎓 MSc in Developmental Psychopathology, 2012, University of Reading<br/>
-👩🏻‍🎓 BSc in Psychology, 2010, University of Warwick<br/><br>
+I am a postdoctoral researcher at the [Hôpital Femme Mère Enfant](https://www.chu-lyon.fr/hopital-femme-mere-enfant) and the [Institut des Sciences Cognitives](https://www.univ-lyon1.fr/recherche/entites-de-recherche-et-plateformes-technologiques/institut-des-sciences-cognitives-marc-jeannerod-isc-mj-umr-5229) (CNRS) in Lyon, France. The main focus of my research is on neurocognitive development underlying social perception and social interaction, as well as the effects of early social experience on socio-cognitive and affective functioning. I use multimodal techniques including electroencephalography (EEG), eye-tracking, behavioural observation, magnetic resonance imaging (MRI), longitudinal research designs, and advanced statistical methods.<br><br>
+👩🏻‍🎓 PhD in Developmental Cognitive Neuroscience, 2017, University of Reading, UK<br/>
+👩🏻‍🎓 MSc in Developmental Psychopathology, 2012, University of Reading, UK<br/>
+👩🏻‍🎓 BSc in Psychology, 2010, University of Warwick, UK<br/><br>
 👩🏻‍💻 Interested in:<br>
 * neurocognitive and socioemotional development<br>
 * early social experience and adversity<br>
