@@ -1,14 +1,14 @@
 # 💫 About Me:
-I am a postdoctoral researcher at the [Hôpital Femme Mère Enfant](https://www.chu-lyon.fr/hopital-femme-mere-enfant) and the [Institut des Sciences Cognitives](https://www.univ-lyon1.fr/recherche/entites-de-recherche-et-plateformes-technologiques/institut-des-sciences-cognitives-marc-jeannerod-isc-mj-umr-5229) (CNRS) in Lyon, France. The main focus of my research is on neurocognitive development underlying social perception and social interaction, as well as the effects of early social experience on socio-cognitive and affective functioning. I use multimodal techniques including electroencephalography (EEG), eye-tracking, behavioural observation, magnetic resonance imaging (MRI), longitudinal research designs, and advanced statistical methods.<br><br>
+I am a Postdoctoral Researcher, Research Project Manager, and Clinical Psychologist, based in Lyon, France. I am affiliated with the [Institut des Sciences Cognitives](https://isc.cnrs.fr) (CNRS), [Hôpital Femme Mère Enfant](https://www.chu-lyon.fr/hopital-femme-mere-enfant) (Lyon) and the [CHU Clermont-Ferrand](https://www.chu-clermontferrand.fr/). My research focuses on the neurocognitive mechanisms underlying social perception and social interaction across early development, and on how early social experience, including adversity and parental psychopathology, shapes socio-cognitive and affective functioning. I adopt a developmental and mechanistic perspective, investigating how attentional, perceptual, and learning processes emerge and reorganise across infancy, and how these processes contribute to risk and resilience for later mental health outcomes. Methodologically, my work relies on longitudinal, multimodal approaches combining electroencephalography (EEG), eye-tracking, behavioural observation, and magnetic resonance imaging (MRI), together with advanced statistical and computational analyses. Through this work, I aim to bridge developmental cognitive neuroscience, social development, and clinical psychology, with the goal of identifying early, experience-sensitive mechanisms relevant to prevention and intervention.<br><br>
 👩🏻‍🎓 PhD in Developmental Cognitive Neuroscience, 2017, University of Reading, UK<br/>
 👩🏻‍🎓 MSc in Developmental Psychopathology, 2012, University of Reading, UK<br/>
 👩🏻‍🎓 BSc in Psychology, 2010, University of Warwick, UK<br/><br>
 👩🏻‍💻 Interested in:<br>
-* neurocognitive and socioemotional development<br>
-* early social experience and adversity<br>
-* social perception and interaction<br>
-* developmental and parental psychopathology<br>
-* EEG, MRI, eye-tracking, and behavioural observation<br/>
+* Neurocognitive and socioemotional development<br>
+* Early social experience and adversity<br>
+* Social perception and social interaction<br>
+* Developmental and parental psychopathology<br>
+* Multimodal developmental neuroscience (EEG, MRI, eye-tracking, behavioural observation)<br/>
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/hollyrayson.bsky.social) 
 
