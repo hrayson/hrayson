@@ -1,22 +1,17 @@
-# 💫 About Me:
-I am a Postdoctoral Researcher, Research Project Manager, and Clinical Psychologist, based in Lyon, France. I am affiliated with the [Institut des Sciences Cognitives](https://isc.cnrs.fr) (CNRS), [Hôpital Femme Mère Enfant](https://www.chu-lyon.fr/hopital-femme-mere-enfant) (Lyon), and the [CHU Clermont-Ferrand](https://www.chu-clermontferrand.fr/).<br><br>
-My research focuses on the neurocognitive mechanisms underlying social perception and social interaction across early development, and on how early social experience, including adversity and parental psychopathology, shapes socio-cognitive and affective functioning. I adopt a developmental and mechanistic perspective, investigating how attentional, perceptual, and learning processes emerge and reorganise across infancy, and how these processes contribute to risk and resilience for later mental health outcomes.<br><br> 
-Methodologically, my work relies on longitudinal, multimodal approaches combining electroencephalography (EEG), eye-tracking, behavioural observation, and magnetic resonance imaging (MRI), together with advanced statistical and computational analyses. Through this work, I aim to bridge developmental cognitive neuroscience, social development, and clinical psychology, with the goal of identifying early, experience-sensitive mechanisms relevant to prevention and intervention.<br><br>
-👩🏻‍🎓 PhD in Developmental Cognitive Neuroscience, 2017, University of Reading, UK<br/>
-👩🏻‍🎓 MSc in Developmental Psychopathology, 2012, University of Reading, UK<br/>
-👩🏻‍🎓 BSc in Psychology, 2010, University of Warwick, UK<br/><br>
-👩🏻‍💻 Interested in:<br>
-* Neurocognitive and socioemotional development<br>
-* Early social experience and adversity<br>
-* Social perception and social interaction<br>
-* Developmental and parental psychopathology<br>
-* Multimodal developmental neuroscience (EEG, MRI, eye-tracking, behavioural observation)<br/>
+# Holly Rayson
 
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/hollyrayson.bsky.social) 
+**Developmental cognitive neuroscientist · Research project manager**
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=hrayson&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrayson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I study how early social interactions shape the developing brain. I combine longitudinal studies, EEG, eye tracking, behavioural observation and MRI to investigate how infants learn to interpret faces and actions, and how early adversity and parental mental health shape development.
 
----
-[![](https://visitcount.itsvg.in/api?id=hrayson&icon=0&color=0)](https://visitcount.itsvg.in)
+I developed and led a [Marie Skłodowska-Curie fellowship](https://cordis.europa.eu/project/id/841210) on developmental pathways to anxiety and led the scientific design and implementation of early-adversity research within [ANXIOMONK](https://anr.fr/Project-ANR-19-CE37-0023). At Hospices Civils de Lyon, I lead developmental research on parental mental health and infant development. I also manage projects for the LENA perinatal mental health programme and lead the neuropsychological component of THINK-FIRST.
+
+At the Institut des Sciences Cognitives Marc Jeannerod, I have co-supervised two PhD researchers, one through completion and one ongoing, and supervised 16 master’s- and doctoral-level research placements.
+
+## Selected research code
+
+- **Caregiver mirroring and infant face processing** · EEG preprocessing and representational similarity analysis. [Code](https://github.com/hrayson/infant_face_rsa) · [Paper](https://doi.org/10.1016/j.infbeh.2026.102262)
+- **Childhood beta bursts and motor skill** · Analysis of beta-burst waveforms and their relationship to motor skill. [Code](https://github.com/danclab/dcd_bursts) · [Paper](https://doi.org/10.1162/IMAG.a.1376)
+- **Early neural predictors of childhood anxiety** · ERP preprocessing and longitudinal analysis. [Code](https://github.com/hrayson/anxiety_erp) · [Paper](https://doi.org/10.1016/j.dcn.2023.101207)
+
+[Website](https://www.hollyrayson.com/) · [CV](https://www.hollyrayson.com/uploads/CV_HRayson.pdf) · [ORCID](https://orcid.org/0000-0002-7995-6907)
